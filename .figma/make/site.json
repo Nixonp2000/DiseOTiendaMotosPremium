@@ -1,0 +1,10 @@
+{
+  "description": "Explore a premium motorcycle store with an intuitive interface, featuring 360° views, online appointment scheduling, and easy access to products and services.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
